@@ -260,7 +260,7 @@
         imgContainer.appendChild(image);
         card.appendChild(imgContainer); 
     
-        let name = document
+        let name = document  
         
       }
       
